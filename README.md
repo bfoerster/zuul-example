@@ -3,6 +3,10 @@
 
 This is a basic example of the [Zuul gateway service](https://github.com/Netflix/zuul) and spring. 
  It is very simple. I just wanted to play a little with these technologies.
+ 
+## Build the services
+
+run ```gradle build``` in project webservice and project zuul.
 
 ## How to start the services
 
